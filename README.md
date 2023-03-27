@@ -6,6 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wogkr810)](https://solved.ac/wogkr810)
 
@@ -21,7 +22,7 @@
 
 🙋‍♂️ **Portfolio** 🙋‍♂️
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-018EF5.svg?style=flat-square&logo=ReadMe&logoColor=white)](https://jaehahk.notion.site/Lee-Jae-Hak-3be7568596df4fa7b26229d6ba551702)
+[![Portfolio](https://img.shields.io/badge/Portfolio-018EF5.svg?style=flat-square&logo=ReadMe&logoColor=white)](https://jaehahk.notion.site/58f542be0566422fb1ddb919f9e3646d)
 
 </div>
 
