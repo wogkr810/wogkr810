@@ -22,7 +22,7 @@
 
 🙋‍♂️ **Portfolio** 🙋‍♂️
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-018EF5.svg?style=flat-square&logo=ReadMe&logoColor=white)](https://jaehahk.notion.site/58f542be0566422fb1ddb919f9e3646d)
+[![Portfolio](https://img.shields.io/badge/Portfolio-018EF5.svg?style=flat-square&logo=ReadMe&logoColor=white)](https://jaehahk.notion.site/ef006d90ed174fedb19690134ef571a7?pvs=4)
 
 </div>
 
