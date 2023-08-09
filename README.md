@@ -16,14 +16,6 @@
 [![이메일](https://img.shields.io/badge/Email-8B00FF?style=flat-square&logo=Gmail&logoColor=white)](mailto:jaehahk810@naver.com)
 
 
-😀 **My Notion** 😀
-
-[![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=notion&logoColor=white)](https://jaehahk.notion.site/07dda44db6c8449896da0491853c0f8e)
-
-🙋‍♂️ **Portfolio** 🙋‍♂️
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-018EF5.svg?style=flat-square&logo=ReadMe&logoColor=white)](https://jaehahk.notion.site/ef006d90ed174fedb19690134ef571a7?pvs=4)
-
 </div>
 
 <!--
